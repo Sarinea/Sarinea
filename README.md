@@ -1,14 +1,7 @@
   
 # 👋 Hi, I’m Sarinea
 
-Welcome to my GitHub profile! I'm passionate about Machine Learning, Data Science, Web Development. Here’s a bit about me:
-
-## 🚀 About Me
-
-- 🔭 I’m currently studying on ML.
-- 🌱 I’m learning and exploring cutting-edge technologies in AI, Machine Learning, and Web Development.
-- 👯 I’m looking to collaborate on innovative projects that combine AI with Web Development.
-- ⚡ Fun fact: I'm a big fan of combining technology with creativity!
+Welcome to my GitHub profile! I'm passionate about AI, Data Science, Web Development.
 
 ## 🛠️ Skills & Tools
 
